@@ -32,14 +32,25 @@ KATANA
            °°°KATANA LOVER°°°
 ```
 
-**COLOR CODES :-**
+**COLOR CODES (Bonus):-**
 
-- ![color](https://via.placeholder.com/15/ff0000/000000?text=+) RED - `[#FF0000]`
-- ![color](https://via.placeholder.com/15/ffffff/000000?text=+) WHITE - `[#FFFFFF]`
-- CYAN - `[#00FFFF]`
-- SILVER - `[#C0C0C0]`
-- BLUE - `[##0000FF]`
-- GRAY OR GREY - `[#808080]`
-- DARK BLUE - `[#00008B]`
-- BLACK - `[#000000]`
-- LIGHT BLUE - `[#ADD8E6]`
+- Red	➡ `[#FF0000]`
+- White ➡ `[#FFFFFF]`
+- Cyan ➡	`[#00FFFF]`
+- Silver ➡	`[#C0C0C0]`
+- Blue ➡	`[#0000FF]`
+- Gray ➡	`[#808080]`
+- DarkBlue	➡ `[#00008B]`
+- Black	➡ `[#000000]`
+- LightBlue	➡ `[#ADD8E6]`
+- Orange	➡ `[#FFA500]`
+- Purple	➡ `[#800080]`
+- Brown	➡ `[#A52A2A]`
+- Yellow	➡ `[#FFFF00]`
+- Maroon	➡ `[#800000]`
+- Lime	➡ `[#00FF00]`
+- Green	➡ `[#008000]`
+- Magenta	➡ `[#FF00FF]`
+- Olive	➡ `[#808000]`
+- Pink	➡ `[#FFC0CB]`
+- Aquamarine ➡ `[#7FFD4]`
